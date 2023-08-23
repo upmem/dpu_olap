@@ -1,0 +1,6 @@
+.venv
+.vscode
+.git
+.gitignore
+build
+dist
