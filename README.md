@@ -16,7 +16,7 @@ Dependencies
 ------------
 
 - Install [UPMEM SDK](https://sdk.upmem.com/)
-- Install [CMake](https://cmake.org/download/) 3.16 or higher
+- Install [CMake](https://cmake.org/download/) 3.24 or higher
 
 CPM will automatically download the following dependencies:
 
